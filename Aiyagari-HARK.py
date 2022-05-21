@@ -199,6 +199,7 @@ import numpy as np
 from copy import deepcopy
 from HARK.utilities import plot_funcs, plot_funcs_der, make_figs
 from HARK.distribution import DiscreteDistribution
+import Aiyagari_Support
 
 # %% [markdown]
 # ## 7 State Aiyagari Model
@@ -206,7 +207,7 @@ from HARK.distribution import DiscreteDistribution
 
 # %%
 # Import Aiyagari model
-from HARK.ConsumptionSaving.Aiyagari_Support import AiyagariType, AiyagariEconomy   #SimpleAiyagari  <- 2 state version (works)
+from Aiyagari_Support import AiyagariType, AiyagariEconomy   #SimpleAiyagari  <- 2 state version (works)
 from time import time
 from scipy.stats import linregress
 
@@ -598,7 +599,7 @@ print("The Euclidean distance between simulated wealth distribution and the esti
 
 # %%
 # Import Aiyagari model
-from HARK.ConsumptionSaving.Aiyagari_Support import AiyagariType, AiyagariEconomy   
+from Aiyagari_Support import AiyagariType, AiyagariEconomy   
 from time import time
 from scipy.stats import linregress
 

@@ -1,1 +1,0 @@
-HARK version 0.12

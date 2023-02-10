@@ -1,5 +1,5 @@
 # Aiyagari-HARK
-Aiyagari (1994) replication in HARK and hybrid model of Aiyagari and Krusell-Smith (1998)
-
+Replication codes for Aiyagari (1994) "Uninsured idiosyncratic risk and aggregate saving" with HARK 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Dostenlinus/Aiyagari-HARK/HEAD)
+

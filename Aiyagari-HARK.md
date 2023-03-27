@@ -7,11 +7,15 @@ authors: # required
     given-names: "David "
     # orcid: "https://orcid.org/0000-0001-8789-8113" 
   -
-    family-names: "Shibuya"
-    given-names: "Haruki" 
-    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX" 
 title: AiyagariIdiosyncratic # required
 abstract: Aiyagari (1994) Replication # optional
+
+Fitted into Remark shape by:
+    -
+        family-names: "Shibuya"
+        given-names: "Haruki" 
+        # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX" 
+    -
 
 # REMARK required fields
 remark-version: 1.0 # required - specify version of REMARK standard used

@@ -1,3 +1,2 @@
-Total runtime: 497.20741629600525 seconds
-Python version: 3.9.9 | packaged by conda-forge | (main, Dec 20 2021, 02:40:17) 
-[GCC 9.4.0]
+Total runtime: 2510.7316501140594 seconds
+Python version: 3.8.8 (default, Apr 13 2021, 15:08:03) [MSC v.1916 64 bit (AMD64)]

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71b3c940-5167-4577-ba2e-317b40124330" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Aiyagari-HARK.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Aiyagari-HARK.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Aiyagari-HARK.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Aiyagari-HARK.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figures/aggregate_savings.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Figures/aggregate_savings.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figures/aggregate_savings.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Figures/aggregate_savings.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +39,12 @@
       <updated>1679952693375</updated>
       <workItem from="1679952698909" duration="5000" />
       <workItem from="1679952717563" duration="83000" />
+      <workItem from="1679955301905" duration="740000" />
+      <workItem from="1679957686211" duration="1962000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
